@@ -1,5 +1,6 @@
 // contentScript.js - injected into every page
-// new comment test
+
+// new test comment to check branch
 (function() {
   chrome.runtime?.onMessage?.addListener((message, sender, sendResponse) => {
     if (message && message.type === "TOPIC_TUTOR_FORCE_ANALYZE") {
