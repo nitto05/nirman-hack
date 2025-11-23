@@ -1,3 +1,4 @@
+// test comment for merge conflict
 // contentScript.js - injected into every page
 
 // new test comment to check branch
